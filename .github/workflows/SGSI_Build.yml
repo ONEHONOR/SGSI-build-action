@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
+  ROM_URL: 'https://download.h2os.com/OnePlus6/OPEN/OnePlus6Hydrogen_22.Y.75_OTA_0750_all_2106301541_3b3e5419e08f468f.zip'
   ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Generic'
+  OS_TYPE: 'H2os'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
